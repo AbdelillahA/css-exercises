@@ -1,0 +1,18 @@
+.rose{
+    background-color: rosybrown;
+    color: black;
+}
+.rose.one{
+    font-size: 24px;
+}
+#green{
+    background-color: green;
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+}
+
+#blue{
+    color: blue;
+    font-size: 36px;
+}
